@@ -45,7 +45,7 @@
                     <?php if ( has_post_thumbnail() ) : ?>
 
                         <div class="property four wide column">
-                            <?php the_post_thumbnail( 'small-thumb' );  ?> 
+                            <a href="<?php the_permalink(); ?>"><?php the_post_thumbnail( 'small-thumb' ); ?></a> 
                         </div>
 
                     <?php endif; ?>

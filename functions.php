@@ -17,4 +17,10 @@
 		add_image_size( 'big-thumb', 600, 600, true ); // 300 pixels wide (and unlimited height)
 		add_image_size( 'biggest-thumb', 800, 600, true ); // 300 pixels wide (and unlimited height)
 	}
+
+	// add_action('admin_menu', 'add_appearance_menu');
+
+	// function add_appearance_menu() {
+	//     add_submenu_page( 'themes.php', 'malagaopt', 'malagaopt', $capability, $menu_slug, $function ); 
+	// }
 ?>

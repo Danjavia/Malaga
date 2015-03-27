@@ -11,12 +11,12 @@
         </div>
         <nav>
             <ul>
-                <li><a href="">Clima</a></li>
-                <li><a href="">Vista</a></li>
-                <li><a href="">Noticias</a></li>
-                <li><a href="">Eventos</a></li>
-                <li><a href="">Opiniones</a></li>
-                <li><a href="">Mi Reserva</a></li>
+                <li><a href="/clima">Clima</a></li>
+                <li><a href="/vista">Vista</a></li>
+                <li><a href="/noticias">Noticias</a></li>
+                <li><a href="/eventos">Eventos</a></li>
+                <li><a href="/opiniones">Opiniones</a></li>
+                <li><a href="/reserva">Mi Reserva</a></li>
             </ul>
         </nav>
     </section>

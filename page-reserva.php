@@ -1,5 +1,11 @@
-<?php get_header(); ?>
-	<?php get_template_part( 'app/part/menu' ); ?>
+<?php
+
+/*
+ * Template Name: Reserva
+ */
+get_header();
+?>
+<?php get_template_part( 'app/part/menu' ); ?>
 
 	<main id="content" class="ui page grid post-single">
 
